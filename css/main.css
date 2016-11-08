@@ -1,1 +1,75 @@
-/* Inserta tu CSS aqui */
+div{
+    background-color: darkseagreen;
+    border: 1px white solid;
+    position: absolute;
+}
+.perimetro{
+    width: 620px;
+    height: 320px;
+        
+}
+.cancha{
+    left: 10px;
+    right: 10px;
+    width: 600px;
+    height: 300px;
+    top:10px;
+    position: absolute;
+   
+}
+
+.arco1{
+    width: 80px;
+    height: 150px; 
+    left: 0px;
+    bottom: 80px
+    
+}
+.arco2{
+    width: 80px;
+    height: 150px; 
+    left: 520px;
+    bottom: 80px;
+
+}
+
+.centro{
+    position: relative;
+    border-radius: 100%;
+    width:  120px;
+    height: 120px;
+    left: 250px;
+    bottom: 0px;
+    top:90px
+}
+.balon{
+    width: 20px;
+    height: 20px;
+    
+}
+.balon1{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    bottom: 50px;
+    left:75px;
+    
+    
+}
+.balon2{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 485px;
+    top:75px
+
+    
+}
+.balon3{
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 280px;
+    bottom: 50px
+    
+}
